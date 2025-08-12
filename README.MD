@@ -54,7 +54,6 @@ Check it out live at: [Link](Link)
         ├── components/
         │   ├── About.tsx
         │   ├── Badges.tsx
-        │   ├── Blogs.tsx
         │   ├── Certifications.tsx
         │   ├── Contact.tsx
         │   ├── Education.tsx
@@ -63,7 +62,7 @@ Check it out live at: [Link](Link)
         │   ├── GitHub.tsx
         │   ├── Hero.tsx
         │   ├── Leetcode.tsx
-        │   ├── Link.tsx
+        │   ├── Codeforces.tsx
         │   ├── Navbar.tsx
         │   ├── Projects.tsx
         │   ├── Skills.tsx
@@ -77,7 +76,6 @@ Check it out live at: [Link](Link)
         │   │   └── svgPaths.ts
         │   └── ui/
         │       ├── AboutCard.tsx
-        │       ├── BlogCard.tsx
         │       ├── CertificationCard.tsx
         │       ├── ContactForm.tsx
         │       ├── CustomCursor.tsx
@@ -94,7 +92,7 @@ Check it out live at: [Link](Link)
             └── useTheme.ts
 ```
 
----
+
 
 ## 🛠 Technologies Used
 
