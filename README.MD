@@ -2,7 +2,7 @@
 
 Welcome to **My Portfolio**! This is my personal portfolio for showcasing my skills, projects, experience, education, and more. It's built using React, TypeScript, Tailwind CSS, and other modern web technologies. It fetches data from various APIs to display the latest information, such as GitHub repositories, LeetCode submissions, and Codeforces profiles. The portfolio is responsive, interactive, and optimized for performance.
 
-Check it out live at: [Link](Link)
+Check it out live at: [Link](https://shubhraj-portfolio-eosin.vercel.app/)
 
 
 ## 🚀 Features
@@ -54,7 +54,6 @@ Check it out live at: [Link](Link)
         ├── components/
         │   ├── About.tsx
         │   ├── Badges.tsx
-        │   ├── Certifications.tsx
         │   ├── Contact.tsx
         │   ├── Education.tsx
         │   ├── Experience.tsx
@@ -76,7 +75,6 @@ Check it out live at: [Link](Link)
         │   │   └── svgPaths.ts
         │   └── ui/
         │       ├── AboutCard.tsx
-        │       ├── CertificationCard.tsx
         │       ├── ContactForm.tsx
         │       ├── CustomCursor.tsx
         │       ├── EducationCard.tsx
@@ -87,7 +85,6 @@ Check it out live at: [Link](Link)
         │       └── TypeWriter.tsx
         └── hooks/
             ├── useAnimatedLogo.ts
-            ├── useBlogs.ts
             ├── useLoading.ts
             └── useTheme.ts
 ```
@@ -120,7 +117,7 @@ Feel free to reach out to me through any of the following channels:
 
 - **Email**: [shubhrajput19194@gmail.com](mailto:shubhrajput19194@gmail.com)
 - **LinkedIn**: [linkedin.com/in/shubhraj-shubh](www.linkedin.com/in/shubhraj-shubh)
-- **Website**: [Link](Link)
+- **Website**: [Link](https://shubhraj-portfolio-eosin.vercel.app/)
 
 ---
 
