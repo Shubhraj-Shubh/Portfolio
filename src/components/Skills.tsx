@@ -56,9 +56,9 @@ const skills = [
   { name: "C", icon: SiC, color: "#A8B9CC", url: "https://en.cppreference.com/w/c" },
   { name: "DSA", icon: FaBook, color: "#2563EB", url: "#" },
   { name: "OOP", icon: FaBook, color: "#9333EA", url: "#" },
-  { name: "DBMS", icon: FaBook, color: "#16A34A", url: "#" },
-  { name: "OS", icon: FaBook, color: "#EAB308", url: "#" },
-  { name: "CN", icon: FaBook, color: "#DC2626", url: "#" },
+  // { name: "DBMS", icon: FaBook, color: "#16A34A", url: "#" },
+  // { name: "OS", icon: FaBook, color: "#EAB308", url: "#" },
+  // { name: "CN", icon: FaBook, color: "#DC2626", url: "#" },
   { name: "System Design", icon: FaBook, color: "#F97316", url: "#" },
 ];
 
