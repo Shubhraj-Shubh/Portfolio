@@ -36,7 +36,7 @@ export function Contact() {
                   <span>github.com/Shubhraj-Shubh</span>
                 </a>
                 <a
-                  href="www.linkedin.com/in/shubhraj-shubh"
+                  href="https://www.linkedin.com/in/shubhraj-shubh"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
