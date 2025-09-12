@@ -1,8 +1,8 @@
 import { SectionTitle } from "./ui/SectionTitle";
 import { SectionBackground } from "./ui/SectionBackground";
 import { SkillCard } from "./ui/SkillCard";
-import { SiHtml5, SiCss3,SiC, SiNodedotjs ,SiJavascript,SiDrizzle,SiGooglegemini,SiYoutube,SiMongoose,SiSocketdotio,SiWebrtc,SiJsonwebtokens,SiClerk,SiRender, SiMaterialdesign, SiShadcnui, SiPostgresql, SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiRedux, SiExpress,  SiMongodb, SiCplusplus, SiGit, SiGithub, SiPostman, SiVite, SiVercel,SiTwilio, SiReplicate } from "react-icons/si";
-import { FaBook, FaUserLock } from "react-icons/fa6";
+import { SiHtml5, SiCss3,SiC, SiNodedotjs ,SiJavascript,SiDrizzle,SiGooglegemini,SiYoutube,SiMongoose,SiSocketdotio,SiWebrtc,SiJsonwebtokens,SiClerk,SiRender, SiMaterialdesign, SiShadcnui, SiPostgresql, SiTypescript, SiReact, SiNextdotjs, SiTailwindcss, SiRedux, SiExpress,  SiMongodb, SiCplusplus, SiGit, SiGithub, SiPostman, SiVite, SiVercel,SiTwilio } from "react-icons/si";
+import { FaBook, FaUserLock,FaRobot } from "react-icons/fa6";
 import { VscVscode } from "react-icons/vsc";
 import { TbSql } from "react-icons/tb";
 
@@ -127,7 +127,10 @@ const skillCategories = [
       { name: "Gemini API", icon: SiGooglegemini, color: "#8952FF", url: "https://ai.google.dev/gemini-api" },
       { name: "Twilio API", icon: SiTwilio, color: "#F22F46", url: "https://www.twilio.com/" },
       { name: "YouTube API", icon: SiYoutube, color: "#FF0000", url: "https://developers.google.com/youtube/v3" },
-      { name: "Replicate API", icon: SiReplicate, color: "#000000", url: "https://replicate.com/" },
+      { name: "Replicate API", icon: FaRobot, color: "#000000", url: "https://replicate.com/anotherjesse/zeroscope-v2-xl" },
+      { name: "Minimax API", icon: FaRobot, color: "#4A4A4A", url: "https://www.minimax.io/" },
+      { name: "ModelsLab API", icon: FaRobot, color: "#2563EB", url: "https://modelslab.com/" },
+      { name: "AI Guru Lab API", icon: FaRobot, color: "#16A34A", url: "https://ai-guru-lab.vercel.app/" },
     ]
   },
   {
