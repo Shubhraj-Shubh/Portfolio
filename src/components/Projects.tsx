@@ -24,6 +24,8 @@ import {
   SiRender,
   SiPostman,
   SiWebrtc,
+  SiTwilio, 
+  SiGooglegemini,
 } from 'react-icons/si';
 
 // Define reusable tech stack icons & colors
@@ -60,13 +62,31 @@ const techStacks = {
   // APIs & Real-time
   socket: { icon: SiSocketdotio, name: "Socket.io", color: '#010101' },
   webrtc: { icon: SiWebrtc, name: "WebRTC", color: '#333333' },
+  twilio: { icon: SiTwilio, name: "Twilio API", color: '#F22F46' }, 
+  gemini: { icon: SiGooglegemini, name: "Gemini API", color: '#4285F4' }, 
 
   
 };
 
 // Define projects data
 const projects = [
- 
+
+
+  {
+  title: 'MakeVideo AI Pro',
+  description: "Built this because creating videos shouldn't require a film degree! An AI-powered platform that turns your text prompts into cinematic clips, accessible via a sleek web app or directly from WhatsApp. Now you can direct your next masterpiece from your chat 🎬",
+  image: '/assets/MakeVideo_AI_Pro.png', 
+  link: 'https://make-video-ai-pro.vercel.app/',
+  github: 'https://github.com/Shubhraj-Shubh/MakeVideo-AI-Pro', 
+  techStack: [
+    techStacks.next,
+    techStacks.javascript,
+    techStacks.postgresql,
+    techStacks.twilio,
+    techStacks.gemini,
+    techStacks.vercel,
+  ],
+},
 
 {
   title: 'CrackCourse AI',
