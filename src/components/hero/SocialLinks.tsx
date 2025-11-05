@@ -13,16 +13,16 @@ const links = [
     icon: <Linkedin className="w-6 h-6 text-[#0077B5]" />,
     label: 'LinkedIn',
   },
-  {
-    href: 'https://www.instagram.com/shubhraj_singh_dodiya',
+/*  {
+    href: 'https://www.instagram.com/',
     icon: <Instagram className="w-6 h-6 text-[#E1306C]" />,
     label: 'Instagram',
   },
   {
-    href: 'https://wa.me/919753648274',
+    href: 'https://wa.me/',
     icon: <FaWhatsapp className="w-6 h-6 text-[#25D366]" />,
     label: 'WhatsApp',
-  },
+  }, */
 
 ];
 
